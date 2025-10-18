@@ -1,5 +1,7 @@
 # Praktikumm3
 ## Menemukan Bilangan Terbesar
 Tampilan Pyton File 
-![img]screenshot/SS1.PNG
-![img]screenshot/SS2.PNG
+![Gambar1](screenshot/SS1.PNG)
+
+### Flowchart
+![Gambar2](screenshot/SS2.PNG)
